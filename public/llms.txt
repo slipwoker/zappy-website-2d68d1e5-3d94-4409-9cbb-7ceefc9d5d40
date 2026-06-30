@@ -1,0 +1,82 @@
+# Alin Nails — Generative Engine Optimization Map
+
+> Alin Nails is a nail salon or nail care brand with a warm, passionate identity suggested by the heart emojis — conveying love for the craft and a personal, boutique-style feel.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכה הבאה לעולם של יופי וטיפוח ציפורניים עם נשמה. מחפשת nail beauty supply איכותי? אנחנו מציעות חוויית בוטיק אישית, עיצובים מרהיבים ושירות מכל הלב. כנסי עכשיו להתחלה מפנקת.
+
+### שירותים
+https://example.com/services
+מחפשת nail and beauty supply שישנה את הלוק? גלי את מגוון השירותים שלנו: מבנייה ועד אומנות ציפורניים, כל טיפול מותאם לך באהבה. קבעי תור עוד היום לחוויה שלא תשכחי.
+
+### אודות
+https://example.com/about
+מאחורי כל לק מושלם עומד סיפור של אהבה למקצוע. גלי מי אנחנו, למה אנחנו הבחירה שלך ל-nail beauty supply, ואיך הפכנו תשוקה לאומנות ציפורניים. בואי להתאהב בסיפור שלנו.
+
+### צור קשר
+https://example.com/contact
+מוכנה לצעד הבא ביופי שלך? צרי קשר עכשיו לקביעת תור, שאלות על nails &amp; beauty supply או סתם להגיד היי. אנחנו מחכות לך עם חיוך וזמינות מלאה. דברי איתנו עוד היום!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Alin Nails
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Alin Nails
+
+### Category
+https://example.com/category/:slug
+מוצרים - Alin Nails
+
+### תודה על פנייתך
+https://example.com/thank-you
+Alin Nails - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Alin Nails
+Alin Nails is a nail salon or nail care brand with a warm, passionate identity suggested by the heart emojis — conveying love for the craft and a personal, boutique-style feel.
+
+## Target Audience
+- ילדות
+
+## Industry
+Beauty & Nail Care
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
